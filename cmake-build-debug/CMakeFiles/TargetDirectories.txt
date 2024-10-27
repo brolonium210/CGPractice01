@@ -1,0 +1,3 @@
+C:/Users/parrg/Downloads/ENGR110/ENGR110/CGPractice01/cmake-build-debug/CMakeFiles/CGPractice01.dir
+C:/Users/parrg/Downloads/ENGR110/ENGR110/CGPractice01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/parrg/Downloads/ENGR110/ENGR110/CGPractice01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
